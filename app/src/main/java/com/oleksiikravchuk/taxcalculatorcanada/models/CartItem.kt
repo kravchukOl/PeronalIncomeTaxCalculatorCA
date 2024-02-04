@@ -1,4 +1,8 @@
 package com.oleksiikravchuk.taxcalculatorcanada.models
 
-class CartItem {
-}
+data class CartItem(
+    val subTotal: Double,
+    val taxes: Double,
+    val total: Double,
+    var tag: String = ""
+)

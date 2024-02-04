@@ -1,6 +1,6 @@
 package com.oleksiikravchuk.taxcalculatorcanada.calculators
 
-abstract class BaseIncomeTaxCalculator {
+abstract class BaseIncomeTax {
     protected fun calculateTaxCommonRates(
         annualIncome: Double,
         ratesArray: List<Pair<Int, Double>>,

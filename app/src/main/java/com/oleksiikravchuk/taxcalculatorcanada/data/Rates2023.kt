@@ -3,7 +3,7 @@ package com.oleksiikravchuk.taxcalculatorcanada.data
 import com.oleksiikravchuk.taxcalculatorcanada.calculators.SalesTax
 import com.oleksiikravchuk.taxcalculatorcanada.models.Province
 
-object RatesAndAmounts2023 {
+object Rates2023 {
 
     // Federal Rates and Amounts:
     val federalTaxBrackets2023 = arrayOf(
