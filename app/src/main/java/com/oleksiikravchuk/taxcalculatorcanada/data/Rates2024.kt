@@ -18,7 +18,7 @@ object Rates2024 {
     const val federalTaxReductionForQuebec = 0.165
 
     // Provincial Rates and Amounts:
-    val provincesAndRates2023 = arrayOf(
+    val provincesAndRates = arrayOf(
         Province(
             "Alberta",
             listOf(

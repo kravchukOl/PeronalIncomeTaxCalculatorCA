@@ -1,4 +1,4 @@
-package com.oleksiikravchuk.taxcalculatorcanada.ui.IncomeTaxScreen
+package com.oleksiikravchuk.taxcalculatorcanada.ui.income_tax_screen
 
 import androidx.lifecycle.ViewModel
 

@@ -16,5 +16,5 @@ fun getProvinceFlagDrawableId(provinceName : String) = when (provinceName) {
     "Quebec" -> R.drawable.flag_of_quebec
     "Saskatchewan" -> R.drawable.flag_of_saskatchewan
     "Yukon" -> R.drawable.flag_of_yukon
-    else -> R.drawable.flag_of_canada
+    else -> R.drawable.ic_canada_32
 }
