@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Tax Calculator Canada</string>
     <string name="province">Province:</string>
+    <string name="can_dollar">C$</string>
+    <string name="annual_income">Annual Income:</string>
+    <string name="year">Year:</string>
 </resources>
